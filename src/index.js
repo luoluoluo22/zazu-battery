@@ -18,7 +18,7 @@ module.exports = () => () => {
     {
       id: 'zazu-battery.capacity',
       title: `${battery.getCapacity()}%`,
-      subtitle: 'Capacity',
+      subtitle: 'Capacity:中文',
       icon: 'fa-battery-half'
     },
     {
